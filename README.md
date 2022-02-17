@@ -27,9 +27,9 @@ Binary classifiers are categorised into a dictionary of methods:
 
 Perfomance of each classifier is evaluated using the Accuracy, Precision and Recall metrics.
 
-![Binary Classifier Performance](https://github.com/AlphaKhaw/nlp-sentiment-analysis/issues/1#issue-1141106749)
+![Binary Classifier Performance](https://user-images.githubusercontent.com/87654386/154449915-237f484a-9c38-4f67-a15f-38ed2ffd6ef4.png)
 
-#### Technologies
+## Technologies
 
 - Spyder (Python 3.7)
 - Pandas
