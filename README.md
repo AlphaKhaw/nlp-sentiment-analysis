@@ -1,5 +1,4 @@
-NLP Sentiment Analysis
-# nlp-sentiment-analysis
+# NLP Sentiment Analysis
 
 ---
 
